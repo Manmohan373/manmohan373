@@ -40,60 +40,30 @@ Passionate about building scalable backend systems, secure APIs and modern web a
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend Development
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
 
----
+### Database
 
-### Backend
-
-- Spring Boot
-- Spring Security
-- Spring Cloud
-- Spring WebFlux
-- Hibernate
-- JPA
-- OAuth2
-- JWT
-- REST APIs
-- SOAP Services
-- OpenFeign
-
----
-
-### Frontend
-
-- Angular
-- TypeScript
-- HTML
-- CSS
-
----
-
-### Databases
-
-- Oracle
-- MySQL
-- PostgreSQL
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Tools & Technologies
 
-- Git
-- Docker
-- Postman
-- Maven
-- Linux
-- IntelliJ IDEA
-- VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
----
 
 ## 🚀 Featured Projects
 
